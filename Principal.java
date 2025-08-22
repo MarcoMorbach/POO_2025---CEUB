@@ -1,11 +1,14 @@
-package aula1;
+package aula2replicação;
 
 public class Principal {
 	
 	public static void main(String[] args) {
-		int a = 2;
-		int b = 2;
-		int resultado = a/b;
-		System.out.println(resultado);
+		
+		Carro c1 = new Carro();
+		c1.ano = 2024;
+		c1.marca = "Fiat";
+		c1.modelo = "Up";
+		
 	}
+
 }
