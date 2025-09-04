@@ -6,7 +6,7 @@ public class Teste {
 		
 		int a = 1;
 		int b = 2;
-		int soma = a + b;
+		int soma = a + b - 1;
 		
 		System.out.println(soma);
 	}
