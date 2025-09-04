@@ -4,5 +4,5 @@
 /**
  * 
  */
-module POO_2025CEUB {
+module aula5exercicio {
 }
